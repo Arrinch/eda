@@ -7,4 +7,5 @@
 3. Visualization quantity of the bedrooms
 
 4. Visualization quantity of the floors
-5. visualization of the number of housing by months and the number of bedrooms
+
+5. Visualization of the number of housing by months and the number of bedrooms
